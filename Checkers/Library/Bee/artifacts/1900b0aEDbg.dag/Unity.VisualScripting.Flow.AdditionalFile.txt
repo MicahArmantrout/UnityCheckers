@@ -1,1 +1,1 @@
-C:\code\Checkers
+C:\code\UnityCheckers\Checkers
